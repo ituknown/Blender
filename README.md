@@ -18,7 +18,7 @@ https://github.com/rlguy/Blender-FLIP-Fluids
 
 https://blendermarket.com/products/flipfluids
 
-## 照片级自然景观植物散布插件 Geo-Scatter
+## 自然景观植物散布插件 Geo-Scatter
 
 https://www.geoscatter.com/index.html
 
