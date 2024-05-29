@@ -23,3 +23,13 @@ https://blendermarket.com/products/flipfluids
 https://www.geoscatter.com/index.html
 
 https://blendermarket.com/products/scatter/faq
+
+## TexTools
+
+https://github.com/franMarz/TexTools-Blender
+
+## Retopoflow 
+
+https://github.com/CGCookie/retopoflow
+
+https://blendermarket.com/products/retopoflow/
