@@ -28,7 +28,7 @@ https://blendermarket.com/products/scatter/faq
 
 https://github.com/franMarz/TexTools-Blender
 
-## Retopoflow 
+## 拓扑插件 RetopoFlow 
 
 https://github.com/CGCookie/retopoflow
 
